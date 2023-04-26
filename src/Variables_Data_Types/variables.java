@@ -1,3 +1,5 @@
+package Variables_Data_Types;
+
 public class variables {
     public static void main(String[] args){
         int a = 10; // variable 'a' of 'int' data type having value 10
