@@ -6,7 +6,7 @@ public class ternaryOperator {
         int bool = (5>10)? 5:10;
         System.out.println(bool);
 
-        String str = (b%2==0)? "Even":"Odd";
+        String str = (a%2==0)? "Even":"Odd";
         System.out.println(str);
     }
 }
