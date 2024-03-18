@@ -1,7 +1,5 @@
 package binarySearch;
 
-import java.util.*;
-
 public class binarySearch {
     public static void main(String[] args) {
         int[] arr = {12, 23, 35, 49, 68, 96, 108};
