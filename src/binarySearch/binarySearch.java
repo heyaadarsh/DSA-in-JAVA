@@ -34,6 +34,6 @@ public class binarySearch {
             }
         }
 
-        return -1;
+        return -1; // If element not found
     }
 }
